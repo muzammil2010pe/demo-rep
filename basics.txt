@@ -1,10 +1,10 @@
 -- git commands
 
-clone
+git clone
 
-add
+git add .  # to add tracked and modified files
 
-commit
+git commit -m "some message" -m "some description" #### commit with message "why and what" 
 
 push
 

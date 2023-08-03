@@ -1,11 +1,15 @@
 -- git commands
 
+git staus
+
 git clone
+
+# Adding ssh key and agent to make connection between local and remote repo
 
 git add .  # to add tracked and modified files
 
 git commit -m "some message" -m "some description" #### commit with message "why and what" 
 
-push
+git push -u origin main
 
-pull
+git pull origin main

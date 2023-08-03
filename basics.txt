@@ -4,6 +4,8 @@ git staus
 
 git clone
 
+git init  # Adding git to local folder
+
 # Adding ssh key and agent to make connection between local and remote repo
 # Difference between Main and Master branch
 
@@ -18,3 +20,9 @@ git push origin main
 git push origin master #  with and without u
 
 git pull origin main
+
+git remote 
+
+git remote -v     # to show remote repository
+
+git remote add origin repolink        # Adding repo git link 

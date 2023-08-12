@@ -1,6 +1,6 @@
 -- git commands
 
-git staus
+git status
 
 git clone
 

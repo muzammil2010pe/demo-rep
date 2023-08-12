@@ -6,6 +6,15 @@ git clone
 
 git init  # Adding git to local folder
 
+git branch  # checking branch
+
+git checkout -b name-of-branch    # Adding branch
+
+
+
+
+
+
 # Adding ssh key and agent to make connection between local and remote repo
 # Difference between Main and Master branch
 

@@ -10,7 +10,7 @@ git branch  # checking branch
 
 git checkout -b name-of-branch    # Adding branch
 
-
+git checkout name-of-branch   # Switching to branch
 
 
 

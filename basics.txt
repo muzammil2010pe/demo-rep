@@ -12,6 +12,17 @@ git checkout -b name-of-branch    # Adding branch
 
 git checkout name-of-branch   # Switching to branch
 
+git diff                    # to check the difference
+
+git log                     # Checking commiting history 
+
+git reset                   # To unstage add
+
+git reset Head~1            # To unstage and uncomitting
+
+git reset unique-identifier  # unique-identifier in the git log for complete deletion of commit
+
+
 
 
 
@@ -21,6 +32,8 @@ git checkout name-of-branch   # Switching to branch
 git add .  # to add tracked and modified files
 
 git commit -m "some message" -m "some description" #### commit with message "why and what" 
+
+git commit -am "some message"  ### Adding and Commiting at the same time
 
 git push -u origin main   # u stands for upstream
 

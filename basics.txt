@@ -7,7 +7,7 @@ git clone
 git config --global user.email
 git config --global user.name
 
-git init  # Adding git to local folder
+git init  # Adding/Initializing git to local folder
 
 git branch  # checking branch
 

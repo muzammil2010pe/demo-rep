@@ -9,7 +9,10 @@ git config --global user.name
 
 git init  # Adding/Initializing git to local folder
 
-git branch  # checking branch
+git checkout filename.ext   # Go to the previous commit
+git checkout -f             # Go to the previous file   
+
+git branch  # checking branchgit 
 
 git checkout -b name-of-branch    # Adding branch
 
@@ -24,7 +27,6 @@ git reset                   # To unstage add
 git reset Head~1            # To unstage and uncomitting
 
 git reset unique-identifier  # unique-identifier in the git log for complete deletion of commit
-
 
 
 

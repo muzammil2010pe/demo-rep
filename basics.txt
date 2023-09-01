@@ -18,7 +18,8 @@ git checkout -b name-of-branch    # Adding branch
 
 git checkout name-of-branch   # Switching to branch
 
-git diff                    # to check the difference
+git diff                    # to compare staged and working tree
+git diff --staged           # to compare working with last commit
 
 git log                     # Checking commiting history 
 

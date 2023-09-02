@@ -32,6 +32,8 @@ git reset unique-identifier  # unique-identifier in the git log for complete del
 
 touch .gitignore   # gitignore file to ignore unrelated files  
 
+git merge branchname   # To merge the branchname to current branch  
+
 # Adding ssh key and agent to make connection between local and remote repo
 # Difference between Main and Master branch
 

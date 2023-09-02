@@ -29,6 +29,7 @@ git reset Head~1            # To unstage and uncomitting
 
 git reset unique-identifier  # unique-identifier in the git log for complete deletion of commit
 
+touch .gitignore   # gitignore file to ignore unrelated files  
 
 # Adding ssh key and agent to make connection between local and remote repo
 # Difference between Main and Master branch

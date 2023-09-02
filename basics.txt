@@ -22,6 +22,7 @@ git diff                    # to compare staged and working tree
 git diff --staged           # to compare working with last commit
 
 git log                     # Checking commiting history 
+git log -p -2                # Checking recent history
 
 git reset                   # To unstage add
 
